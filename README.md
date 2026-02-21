@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**itzlise/itzlise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am i?
+##### Im a *linux enthusiast* (aka a person spendin 10+ hours a day to make his setup look good)
 
-Here are some ideas to get you started:
+## What do i do?
+##### Embarrass myself using tech
+##### Currently i have a total of 0 repos but im working on a mangowc rice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What tools i use
+##### For tools i use autism and docs
+
+## A bit about me
+   Favourite bands: Kreator, Lemberg, Architechts
+   Favourite game: Terraria
+   Im not a developer, im just a goofball 
