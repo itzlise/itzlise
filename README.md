@@ -5,7 +5,6 @@
 
 ## What do i do?
 ##### Embarrass myself using tech
-##### Currently i have a total of 0 repos but im working on a mangowc rice
 
 ## What tools i use
 ##### For tools i use autism and docs
