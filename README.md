@@ -10,6 +10,6 @@ Nobara 🠖 Fedora 🠖 CachyOS 🠖 Arch 🠖 Artix 🠖 **NixOS**⠀«⠀«⠀
 
 ### Tools i use
 
-![Languages]([https://skillicons.dev/icons?i=nix,zig,c&theme=dark])
+![Languages](https://skillicons.dev/icons?i=nix,zig,c&theme=dark)
 
 <br/>
