@@ -1,16 +1,10 @@
-# Hi there 👋
-
-## Who am i?
-##### Im a *linux enthusiast* (aka a person spendin 10+ hours a day to make his setup look good)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DB9D7&width=435&lines=What+if+an+Idiot+had+Github%3F;ItzLise)](https://git.io/typing-svg)
 
 ## What do i do?
 ##### Embarrass myself using tech
 
-## What tools i use
-##### For tools i use autism and docs
-
 ## A bit about me
-   Favourite bands: Kreator, Lemberg, Architechts
+   Favourite bands: BMTH, Lemberg, Architechts
    Favourite game: Terraria
  
-   Im not a developer, im just a goofball 
+   Im not a developer, in fact, im a musician
