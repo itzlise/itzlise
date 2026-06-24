@@ -8,9 +8,6 @@
 ### Linux Journey
 Nobara 🠖 Fedora 🠖 CachyOS 🠖 Arch 🠖 Artix 🠖 **NixOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/itzlise/mangowc-config)
 
-   
-   Favourite game: Terraria
-
 ### Tools i use
 
 ![Languages]([https://skillicons.dev/icons?i=nix,zig,c&theme=dark])
