@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DB9D7&width=435&lines=What+if+an+Idiot+had+Github%3F;ItzLise)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=400&color=0db9d7&width=435&lines=Miracle+in+Feathers%3F;ItzLise)](https://git.io/typing-svg)
 
 <p>
   <b> Developer from Lviv 🇺🇦 </b> <br>
