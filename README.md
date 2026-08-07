@@ -6,7 +6,7 @@
 </p>
 
 ### Linux Journey
-Nobara 🠖 Fedora 🠖 CachyOS 🠖 Arch 🠖 Artix 🠖 **NixOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/itzlise/mangowm-dotfiles)
+Nobara 🠖 Fedora 🠖 CachyOS 🠖 Arch 🠖 Artix 🠖 NixOS 🠖 **Gentoo** ⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/itzlise/gentoo-dots)
 
 ### Tools i use
 
